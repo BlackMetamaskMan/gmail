@@ -1,0 +1,17 @@
+*.json
+*.log
+*.pyc
+__pycache__/
+
+*.egg-info/
+.pytest_cache/
+*starter*.py
+*local*.py
+*outside*
+priv/
+
+env/
+venv/
+lib/
+lib64/
+bin/
